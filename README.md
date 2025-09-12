@@ -157,3 +157,11 @@ BestIP for CF-Ali-DNSpod 由 AbBai（阿布白）开发
 源码仓库：[https://github.com/IonRh/Cloudflare-BestIP](https://github.com/IonRh/Cloudflare-BestIP)
 
 感谢XIU2给大家提供的工具。 https://github.com/XIU2/CloudflareSpeedTest
+
+<a href="https://github.com/IonRh/Cloudflare-BestIP/stargazers" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=IonRh/Cloudflare-BestIP&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=IonRh/Cloudflare-BestIP&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=IonRh/Cloudflare-BestIP&type=Timeline" />
+  </picture>
+</a>
